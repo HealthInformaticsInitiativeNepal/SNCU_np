@@ -1,0 +1,2 @@
+SNCU are established at Level 2 Hospitals with an aim to reduce Neonatal mortality rate. The SNCU are supposed to be lead by pediatric doctors, however due to limited HR and patients load, most of Hospital with SNCU doesn't have padeatric doctors. Hence, the quality of care provided in different SNCU's are not uniform and there are no initatives to monitor that as well. Hence, we explored possibility of creating FHIR implementation guidelines for SNCU's for digtitalization and clinical decision support 
+
